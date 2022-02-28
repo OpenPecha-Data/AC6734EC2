@@ -1,0 +1,26 @@
+segment_sources:
+  PF5628224:
+    type: origin_type
+    relation: translation
+    language: en
+  PCB4CB75B:
+    type: origin_type
+    relation: translation
+    language: zh
+  P595A23E0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  faa7dc16166449aca9a3a02d5220af34:
+    PF5628224: 5df538c20d334990bdba1fa907146cb3
+    PCB4CB75B: 81ed7189d8534371b3b0115c5e8add8a
+    P595A23E0: 37d8f3f6188a4249bad9b82eef84e802
+  6c0abfd34e224ea287461319a4515f4a:
+    PF5628224: 8bfa7857760c4fd7a2cb916fd4f51a0a
+    PCB4CB75B: 9a5ee53e504a474ca312ffbebf7afa6d
+    P595A23E0: 179b02bdeca842ce984e9ffe1b0fc388
+  29c870607b194f66bda70ec05f795be8:
+    PF5628224: 9473a0049db74618a69a5cddb95651f6
+    PCB4CB75B: ba8a0ae232254b83b9f2d19e0ff8cbf9
+    P595A23E0: ab6015277011434b82cf45cfa45c90d6

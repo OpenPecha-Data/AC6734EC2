@@ -1,0 +1,19 @@
+segment_sources:
+  PF5628224:
+    type: origin_type
+    relation: translation
+    language: en
+  P595A23E0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  71233e2760c24a9494fd2f9e7005864f:
+    PF5628224: d81b72265312462e82de929a2b7aad67
+    P595A23E0: 69161684837a442ab3c23173215a45f1
+  53650533d0b54b509bd4a43d2d096e4c:
+    PF5628224: c3b80aad47614551a5032c75fdfcb6f5
+    P595A23E0: 5e822e3890854df0bd96e1c51b310b65
+  7aa8b1a5117c47acb4f3637b30dcebe6:
+    PF5628224: 0f89a3b95fab46faaba6a4addfc6fdaa
+    P595A23E0: 472559c9799543ffadc26c207c9783f9
